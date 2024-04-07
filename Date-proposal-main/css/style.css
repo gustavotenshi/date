@@ -87,6 +87,19 @@ img {
     flex-wrap: wrap-reverse;
   }
 
+  * {
+    overflow: auto;
+  }
+
+  h1 {
+    font-size: 30px !important;
+    
+  }
+
+  a {
+    margin-top: 10px;
+  }
+
   .caption {
     margin-top: 30px;
     margin-right: 0;
