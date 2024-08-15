@@ -15,7 +15,7 @@ span {
 
 body {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   display: flex;
   overflow-x: hidden;
   align-items: center;
@@ -27,7 +27,7 @@ body {
 }
 
 .caption {
-  width: 70%;
+  width: 50%;
   margin-right: 50px;
 }
 .caption h1 {
